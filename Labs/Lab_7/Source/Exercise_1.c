@@ -1,6 +1,4 @@
-/*	Author: Eduardo Rocha
- *  	Partner(s) Name: Arturo Alvarado
- *	Lab Section:
+/*	Author: Arturo Alvarado
  *	Assignment: Lab #7  Exercise #1
  *	Exercise Description: 
 		
