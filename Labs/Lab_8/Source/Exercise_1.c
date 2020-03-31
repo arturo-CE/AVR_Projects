@@ -1,6 +1,4 @@
-/*	Author: eduardorocha
- *  	Partner(s) Name: Arturo Alvarado
- *	Lab Section:
+/*	Author: Arturo Alvarado
  *	Assignment: Lab #8  Exercise #1
  *	Exercise Description: Design a system that reads the 10-bit ADC result 
  *  from the ADC register, and displays the result on a bank of 10 LEDs.
