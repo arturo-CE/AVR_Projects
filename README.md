@@ -15,3 +15,4 @@ Programmed in **C**. Programming the ATmega1284 microcontroller using Atmel Stud
 
 ## Links
 - Header and Source files: [Folder with files](https://drive.google.com/drive/folders/1vB_RugYeMaD3tL8LokIIF2_tCMRdyMI8?usp=sharing)
+- Documentation and Wiring: [Millipede Documentation](https://docs.google.com/document/d/1RR7pLc7LpIiEhgRby2GM-7fLWpvo6V_b_ESwz5qWdOQ/edit?usp=sharing)
