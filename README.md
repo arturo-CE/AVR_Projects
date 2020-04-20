@@ -4,6 +4,11 @@ Millipede is a vertically oriented fixed shooter game. It gives the user control
 ## Objective 
 To eliminate the 4 cascading targets/bugs before any of them are able to reach the character's position. A winning screen :) will appear if the user is able to exteriminate all four bugs prior to them reaching the last row. A losing screen :(  will appear if any of the bugs are able to reach the last row and sting the character. 
 
+## **Diagram:**<br/>
+
+![image](https://user-images.githubusercontent.com/61763318/79528241-531cec00-801e-11ea-8a40-006eb3449bfc.png)
+
+
 ## Hardware
 - Analog Joystick 
 - Button Input (Reset, Fire)
