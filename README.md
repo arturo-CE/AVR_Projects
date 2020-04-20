@@ -6,7 +6,7 @@ To eliminate the 4 cascading targets/bugs before any of them are able to reach t
 
 ## **Diagram:**<br/>
 
-![image](https://user-images.githubusercontent.com/61763318/79528241-531cec00-801e-11ea-8a40-006eb3449bfc.png)
+(![IMG_2655](https://user-images.githubusercontent.com/61763318/79798041-3417a600-830d-11ea-96c1-e04606b174fc.jpg))
 
 
 ## Hardware
