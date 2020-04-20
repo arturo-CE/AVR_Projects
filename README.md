@@ -19,5 +19,5 @@ To eliminate the 4 cascading targets/bugs before any of them are able to reach t
 Programmed in **C**. Programming the ATmega1284 microcontroller using Atmel Studio 7.0 to build and debug. 
 
 ## Links
-- Header and Source files can be found :[here](https://drive.google.com/drive/folders/1vB_RugYeMaD3tL8LokIIF2_tCMRdyMI8?usp=sharing)
-- Documentation and Wiring can be found :[here](https://docs.google.com/document/d/1RR7pLc7LpIiEhgRby2GM-7fLWpvo6V_b_ESwz5qWdOQ/edit?usp=sharing)
+- Header and Source files can be found: [here](https://drive.google.com/drive/folders/1vB_RugYeMaD3tL8LokIIF2_tCMRdyMI8?usp=sharing)
+- Documentation and Wiring can be found: [here](https://docs.google.com/document/d/1RR7pLc7LpIiEhgRby2GM-7fLWpvo6V_b_ESwz5qWdOQ/edit?usp=sharing)
